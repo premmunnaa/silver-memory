@@ -1,2 +1,4 @@
 class first{
+void hello(){
+}
 }
