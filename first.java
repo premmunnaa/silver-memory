@@ -1,5 +1,6 @@
 class first{
 void hello(){
-sysout.out.println("Vanakam");
+System.out.println("Vanakam");
+System.out.println("hello world");
 }
 }
